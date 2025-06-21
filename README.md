@@ -3,6 +3,24 @@
 This project processes historical weather data to identify climate trends and visualize key metrics such as temperature, humidity, and rainfall. It also forecasts future temperature trends using Linear Regression.
 
  Analyze past climate data & forecast future temperature trends using Python, Matplotlib, and Scikit-learn.
+ 
+ Requirements:
+ 
+Install the required Python libraries:
+
+pip install -r requirements.txt
+
+Dependencies include:
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn
 
 💻 Features
 
@@ -30,8 +48,6 @@ Evaluation Metrics:
 
 MSE: 27.24
 RMSE: 5.22
-
-🚀 Getting Started
 
 Prerequisites
 
